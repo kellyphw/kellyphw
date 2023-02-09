@@ -1,4 +1,6 @@
-### Hi there 👋
+### I've finally joined the Python community and it got me thinking... "Why did I not join earlier?!"🤩
+I'm interested in understanding human minds, especially in terms of behavioral economics and policy decision making (whether that be for the public or the private sector). Quantifying and making a framework of different trends has been a huge passion of mine, and I am honing both quantitative and qualitative research skills to give a "practical" solution that captures the reality. 
+Currently, I am working on understanding the sentiment around #quiet quitting and #rage applying in the workforce. This will be done by conducting text analysis on LinkedIn posts, so I'm looking forward to getting all the insightful advice and help from the Python community! 
 
 <!--
 **kellyphw/kellyphw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
